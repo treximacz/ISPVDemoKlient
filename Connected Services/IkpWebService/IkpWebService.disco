@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://ispv.cz/testikp/WebServices/2017-1/IkpWebService.asmx?wsdl" docRef="https://ispv.cz/testikp/WebServices/2017-1/IkpWebService.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://ispv.cz/testikp/WebServices/2017-1/IkpWebService.asmx" xmlns:q1="http://ispv.cz/ikp/webservices/2017-1/ikpwebservice" binding="q1:IkpWebServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://ispv.cz/testikp/WebServices/2017-1/IkpWebService.asmx" xmlns:q2="http://ispv.cz/ikp/webservices/2017-1/ikpwebservice" binding="q2:IkpWebServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
